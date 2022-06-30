@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+h1,
+p,
+body {
+  margin: 0;
+}
+.container {
+  width: 1440px;
+  height: 3540px;
+}
+.header1 {
+  width: 1440px;
+  height: 120px;
+}
+.header-h1 {
+  width: 1220px;
+}
